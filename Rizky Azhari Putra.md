@@ -1,4 +1,4 @@
-Nama    : Rizky Azhari Putra
-NPM     : 2310631250028
-Kelas   : 4A
-Jurusan : Sistem Informasi
+Nama    : Rizky Azhari Putraln
+NPM     : 2310631250028ln
+Kelas   : 4Aln
+Jurusan : Sistem Informasiln
